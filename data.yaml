@@ -1,0 +1,13 @@
+train: C:\Users\Kathan\Desktop\another_round\another_round\data\train
+val: C:\Users\Kathan\Desktop\another_round\another_round\data\val
+test: C:\Users\Kathan\Desktop\another_round\another_round\data\test
+
+nc: 3
+names: ['airplane', 'car', 'largevehicle']
+
+roboflow:
+  workspace: deavrsh-soni-4nnle
+  project: final-ehuih
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/deavrsh-soni-4nnle/final-ehuih/dataset/1
